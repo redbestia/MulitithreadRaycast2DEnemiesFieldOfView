@@ -1,5 +1,7 @@
 # MulitithreadRaycast2DEnemiesFieldOfView
 
+Custom multithreaded field of view system using the Jobs System and Burst Compiler, supporting most of Collider2D types. This system is about 100 times faster than base Unity Physics2D.Raycast for higher raycasts count.
+
 ![mainpic](https://github.com/user-attachments/assets/a3553fdc-5dab-47d8-8d89-4b3b8e56bcf9)
 
 Description of the problem: 
