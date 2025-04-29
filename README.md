@@ -1,4 +1,4 @@
-# MulitithreadRaycast2DEnemiesFieldOfView2D
+# MulitithreadRaycast2DEnemiesFieldOfView
 
 ![mainpic](https://github.com/user-attachments/assets/a3553fdc-5dab-47d8-8d89-4b3b8e56bcf9)
 
